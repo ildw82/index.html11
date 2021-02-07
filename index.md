@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/ildw82/index.html11/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ildw82/index.html11/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<html>
+<head> </head>
+<title> </title>
+<body background="https://cdn.fishki.net/upload/post/2019/11/06/3132891/8890037eecfaf64d7c6000fb2dc40011.jpg">
+<Img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Certificates_of_Honour_of_the_Soviet_Union_12.jpg/800px-Certificates_of_Honour_of_the_Soviet_Union_12.jpg" Width="400" Height="300">
+<a href="https://ru.wikipedia.org/wiki/Ленин,_Владимир_Ильич"> Ленин
+<Img src="https://upload.wikimedia.org/wikipedia/commons/9/9b/CroppedStalin1943.jpg" Width="400" Height="300">
+<a href="https://ru.wikipedia.org/wiki/Сталин,_Иосиф_Виссарионович"> Сталин
+<Img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Georgy_Malenkov_1964.jpg/800px-Georgy_Malenkov_1964.jpg" Width="400" Height="300">
+<a href="https://ru.wikipedia.org/wiki/Маленков,_Георгий_Максимилианович"> Меленков
+<Img src="https://upload.wikimedia.org/wikipedia/commons/6/69/Khrushchov.jpg" Width="400" Height="300">
+<a href="https://ru.wikipedia.org/wiki/Хрущёв,_Никита_Сергеевич"> Хрущёв
+<Img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Leonid_Brezhnev_Portrait_%281%29.jpg" Width="400" Height="300">
+<a href="https://ru.wikipedia.org/wiki/Брежнев,_Леонид_Ильич"> Брежнев
+<Img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Yuri_Andropov_-_Soviet_Life%2C_August_1983.jpg" Width="400" Height="300">
+<a href="https://ru.wikipedia.org/wiki/Андропов,_Юрий_Владимирович">Андропов
+<Img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Konstant%C3%ADn_Chernenko_-_Tapa_Diario_Clar%C3%ADn.jpg" Width="400" Height="300">
+<a href="https://ru.wikipedia.org/wiki/Черненко,_Константин_Устинович"> Черненко
+<Img src="https://upload.wikimedia.org/wikipedia/commons/5/57/RIAN_archive_850809_General_Secretary_of_the_CPSU_CC_M._Gorbachev_%28crop%29.jpg" Width="400" Height="300">
+<a href="https://ru.wikipedia.org/wiki/Горбачёв,_Михаил_Сергеевич">Горбачёв
+</body>
+</html>
